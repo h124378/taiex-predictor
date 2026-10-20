@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.exe
+dist/
+build/
+cache/
+data_cache/
+push_config.json
+.git
